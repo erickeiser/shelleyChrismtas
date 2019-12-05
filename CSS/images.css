@@ -1,0 +1,75 @@
+body {
+    background-color: #b2bec3;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+
+
+p {
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 0 8px;
+}
+
+
+/* Buttons */
+a.button {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:hover {
+    color: #00b894;
+    outline: none;
+}
+
+.hero {
+    margin-top: 20vh;
+}
+
+.secondary {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+}
+
+.btn-primary.button {
+    width: 80%;
+    margin: 0 10%;
+    border-radius: 150px;
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:active {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:focus {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:link {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:visited {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}

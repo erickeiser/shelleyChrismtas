@@ -1,0 +1,35 @@
+body {
+    background-color: #00b894;
+    color: #55efc4;
+}
+
+.clueOne {
+    background-color: #55efc4;
+    color:#00b894 ;
+    text-align: center;
+    height: 70px;
+    padding-top: 15px;
+    margin-left: -5%;
+    margin-right: -5%;
+}
+
+.btn {
+    width: 80%;
+    margin: 0 10% 20%;
+    border-radius: 100px;
+}
+
+.btn-primary a {
+    color: #fff;
+}
+
+.btn-primary {
+    margin-top: 15%;
+}
+
+.next {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 1.6rem;
+}
+    

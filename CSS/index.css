@@ -1,0 +1,74 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height:100%;
+    width: 100%;
+}
+
+body {
+    background-image: url('/img/btree.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Dancing Script', cursive;
+    padding: 0 10px;
+}
+
+a.button {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:hover {
+    color: #00b894;
+    outline: none;
+}
+
+.hero {
+    margin-top: 20vh;
+}
+
+.secondary {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+}
+
+.btn-primary.button {
+    width: 80%;
+    margin: 0 10%;
+    border-radius: 150px;
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:active {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:focus {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:link {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary.button:visited {
+    border-color: #00b894 ;
+    background-color: #00b894;
+    outline: none;
+}
+    
+
