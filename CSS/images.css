@@ -24,7 +24,7 @@ p {
 a.button {
     color: #fff;
     text-decoration: none;
-    outline: 0;
+    outline: none;
 }
 
 a:hover {
@@ -43,11 +43,12 @@ a:hover {
 
 .btn-primary.button {
     width: 80%;
-    margin: 0 10%;
+    margin: 0 10% 20%;
     border-radius: 150px;
     border-color: #00b894 ;
     background-color: #00b894;
     outline: none;
+    
 }
 
 button.btn.btn-lg.btn-primary.button:active {
