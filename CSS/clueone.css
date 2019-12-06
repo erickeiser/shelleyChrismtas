@@ -30,9 +30,10 @@ body {
 }
 
 .next {
-    font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: 1.6rem;
+    margin-top: 20px;
+    
 }
 
 /* Modal */
@@ -41,17 +42,19 @@ body {
     }
 
     .modal-header {
-        background-color: #275B52;
+        background-color: #00b894;
         
     }
 
     .modal-title {
-        background-color: #275B52;
+        background-color: #00b894;
         width: 100%;
         margin: 0;
         padding: 0;
         text-align: center;
-        color: #58B59A;
+        color: #fff;
+        font-size: 1.7rem;
+        font-weight: 500;
     }
 
     .modal-body {
@@ -64,6 +67,12 @@ body {
     }
 
     .modal-footer {
-        background-color:#275B52;
+        background-color:#00b894;
         padding-top: 30px;
+    }
+
+    .modal-footer button {
+        background-color: #00b894;
+        border: 2.5px solid  #55efc4;
+        font-size: 1.3rem;
     }
