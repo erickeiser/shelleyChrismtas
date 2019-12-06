@@ -55,26 +55,8 @@ a:hover {
     
 }
 
-/* button.btn.btn-lg.btn-primary.button:active {
-    border-color: #55efc4 ;
-    
-    outline: none;
+.us {
+    text-align: center;
+    color: #55efc4;
+    letter-spacing: 2.8px;
 }
-
-button.btn.btn-lg.btn-primary.button:focus {
-    border-color: #00b894 ;
-    background-color: #00b894;
-    outline: none;
-}
-
-button.btn.btn-lg.btn-primary.button:link {
-    border-color: #00b894 ;
-    background-color: #00b894;
-    outline: none;
-}
-
-button.btn.btn-lg.btn-primary.button:visited {
-    border-color: #00b894 ;
-    background-color: #00b894;
-    outline: none;
-} */
