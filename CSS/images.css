@@ -1,5 +1,5 @@
 body {
-    background-color: #55efc4;
+    background-color: #00b894;
     font-family: 'Dancing Script', cursive;
     
 }
@@ -45,15 +45,16 @@ a:hover {
     width: 80%;
     margin: 0 10% 20%;
     border-radius: 150px;
-    border-color: #00b894 ;
+    border: 2px solid #55efc4;
     background-color: #00b894;
     outline: none;
     
+    
 }
 
-button.btn.btn-lg.btn-primary.button:active {
-    border-color: #00b894 ;
-    background-color: #00b894;
+/* button.btn.btn-lg.btn-primary.button:active {
+    border-color: #55efc4 ;
+    
     outline: none;
 }
 
@@ -73,4 +74,4 @@ button.btn.btn-lg.btn-primary.button:visited {
     border-color: #00b894 ;
     background-color: #00b894;
     outline: none;
-}
+} */
