@@ -27,7 +27,114 @@ body {
 
 .btn-primary {
     margin-top: 15%;
+    background-color: #00b894;
+    border: 2px solid #55efc4;
 }
+
+button.btn.btn-lg.btn-danger {
+    margin-top: 10%;
+    background-color:  #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+    
+}
+
+button.btn.btn-lg.btn-danger:focus {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-danger:active {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-danger:link {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-danger:blur {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-danger::after {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-danger:visited {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+/* Primary Button */
+button.btn.btn-lg.btn-primary {
+    margin-top: 10%;
+    background-color:  #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+    
+}
+
+button.btn.btn-lg.btn-primary:focus {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary:active {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary:link {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary:blur {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary::after {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+button.btn.btn-lg.btn-primary:visited {
+    background-color: #00b894;
+    border: 2px solid #55efc4;
+    box-shadow: none;
+    outline: none;
+}
+
+
 
 .next {
     text-align: center;
@@ -71,13 +178,15 @@ body {
         padding-top: 30px;
     }
 
-    .modal-footer button {
+    button.btn.btn-danger.button-close {
+        margin-top: 25px;
+        letter-spacing: 3.5px;
         background-color: #00b894;
-        border: 2.5px solid  #55efc4;
-        font-size: 1.3rem;
+        border: 2px solid #55efc4;
     }
 
-.black {
-    color: #000;
-}
-    
+    button.btn.btn-danger.button-close:active {
+        
+        background-color: #00b894;
+        border: 2px solid #55efc4;
+    }
