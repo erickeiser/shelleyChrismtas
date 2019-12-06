@@ -1,6 +1,7 @@
 body {
     background-color: #00b894;
     color: #55efc4;
+    font-family: 'Dancing Script', cursive;
 }
 
 .clueOne {
@@ -8,9 +9,10 @@ body {
     color:#00b894 ;
     text-align: center;
     height: 70px;
-    padding-top: 15px;
+    padding-top: 10px;
     margin-left: -5%;
     margin-right: -5%;
+    font-size: 2.8rem;
 }
 
 .btn {
@@ -32,4 +34,36 @@ body {
     text-align: center;
     font-size: 1.6rem;
 }
-    
+
+/* Modal */
+    .modal {
+        margin-top: 25%;
+    }
+
+    .modal-header {
+        background-color: #275B52;
+        
+    }
+
+    .modal-title {
+        background-color: #275B52;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: #58B59A;
+    }
+
+    .modal-body {
+        background-color: #D33943;
+        color: #fff;
+        font-size: 1.5rem;
+        margin-top: -2%;
+        margin-bottom: -2%;
+        
+    }
+
+    .modal-footer {
+        background-color:#275B52;
+        padding-top: 30px;
+    }
