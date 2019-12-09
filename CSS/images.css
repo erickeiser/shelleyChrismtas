@@ -4,14 +4,32 @@ body {
     
 }
 
-img {
-    max-height: 100%;
-    max-width: 100%;
+/* img {
+    
     width: 30%;
     float: left;
     margin: 1.66%;
+} */
+
+img {
+    position: relative;
+    float: left;
+    width: 30%;
+    height: 100%;
+    margin: 1.66%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
+
+.img-height {
+    height: 180px;
+    object-fit: cover;
+    object-position: center center;
+    background-size: cover;
+}
+    
 
 
 
