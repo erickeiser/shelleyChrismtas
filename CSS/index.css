@@ -33,20 +33,18 @@ a:hover {
     outline: none;
 }
 
-.hero {
+.hero, .secondary {
     text-align: center;
     font-size: 35px;
-    margin-top: 5rem;
+    margin-top: 10rem;
 }
 
-.secondary {
-    margin-top: 2rem;
-    margin-bottom: 16vh;
-}
+
 
 .btn-primary.button {
+
     width: 80%;
-    margin: 0 10%;
+    margin: 18rem 10% 0 10%;
     border-radius: 150px;
     border-color: #00b894 ;
     background-color: #00b894;
