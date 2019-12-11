@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-image: url('/img/btree.jpg');
+    background-image: url('/img/btree2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -33,7 +33,7 @@ a:hover {
     outline: none;
 }
 
-.hero, .secondary {
+.first, .second, .third, .fourth, .fifth, .secondary {
     text-align: center;
     font-size: 35px;
     margin-top: 10rem;
