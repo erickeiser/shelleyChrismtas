@@ -18,6 +18,10 @@ body {
     padding: 0 10px;
 }
 
+.container {
+    text-align: center;
+}
+
 a.button {
     color: #fff;
     text-decoration: none;
