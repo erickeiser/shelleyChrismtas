@@ -34,14 +34,14 @@ a:hover {
 }
 
 .hero {
+    text-align: center;
     font-size: 25px;
-    font-weight: bolder;
-    margin-top: 15vh;
+    margin-top: 5rem;
 }
 
 .secondary {
-    margin-top: 25vh;
-    margin-bottom: 10vh;
+    margin-top: 2rem;
+    margin-bottom: 16vh;
 }
 
 .btn-primary.button {
