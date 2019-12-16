@@ -8,10 +8,10 @@ $(document).ready(function(){
     $(".fifth").delay(37500).fadeIn(3000).delay(4000).fadeOut(1500)
     $(".secondary").delay(46500).fadeIn(3000).delay(4000).fadeOut(1500)
     $(".button").delay(55500).fadeIn(3000)
+})
    
     
    
      
     
     
-})

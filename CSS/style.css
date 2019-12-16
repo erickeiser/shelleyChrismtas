@@ -1,8 +1,12 @@
-.picture-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+* {
+    margin: 0;
+    padding: 0;
 }
-    
 
+.grid div:nth-child(even) {
+    background-color: red;
+}
 
-
+.grid div:nth-child(odd) {
+    background-color: green;
+}
